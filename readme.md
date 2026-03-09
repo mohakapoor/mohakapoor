@@ -7,8 +7,3 @@ I’m particularly interested in **predictive modeling, ML deployment, and data-
 
 ---
 
-## 📫 Contact
-
-LinkedIn: https://linkedin.com/in/YOUR_LINK
-Email: [your.email@example.com](mailto:your.email@example.com)
-
